@@ -2,6 +2,8 @@
 
 ## You want a movie?
 
+This web app came as a result of somebody getting bored of me asking for movies! 
+
 ### Movie Information
 The information about each movie is taken from `The Movie Database` 
 You can find more about them bu pressing [here](https://www.themoviedb.org)
